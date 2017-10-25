@@ -1,2 +1,2 @@
 # hackerrank
-Random challenges from hackerrank.com
+Random challenges I've impemented for hackerrank.com
